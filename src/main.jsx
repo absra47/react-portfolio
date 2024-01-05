@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
-import "fontsoure/outfit";
-import "fontsoure/roboto";
+import "@fontsource/outfit";
+import "@fontsource/roboto";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
