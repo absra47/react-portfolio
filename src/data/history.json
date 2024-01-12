@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software Developer",
+    "organization": "TechCo Solutions",
+    "startDate": "2020-05-01",
+    "endDate": "2022-01-01",
+    "experiences": [
+      "Worked on google Maps,Worked on Windows 11,Worked on company library , Helped create UI components"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Senior Developer",
+    "organization": "InnoSoft Innovations",
+    "startDate": "2018-03-15",
+    "endDate": "2020-04-30",
+    "experiences": [
+      "Worked on google Maps,Worked on Windows 11,Worked on company library , Helped create UI components"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Junior Developer",
+    "organization": "CodeCrafters Inc.",
+    "startDate": "2016-09-10",
+    "endDate": "2018-02-28",
+    "experiences": [
+      "Worked on google Maps,Worked on Windows 11,Worked on company library , Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
