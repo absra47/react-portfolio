@@ -50,3 +50,5 @@ export const Experience = () => {
     </section>
   );
 };
+
+console.log(2 + 2);
