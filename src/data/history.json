@@ -1,31 +1,28 @@
 [
   {
-    "role": "Software Developer",
-    "organization": "TechCo Solutions",
-    "startDate": "2020-05-01",
-    "endDate": "2022-01-01",
-    "experiences": [
-      "Worked on google Maps,Worked on Windows 11,Worked on company library , Helped create UI components"
-    ],
+    "role": "Software Engineer",
+    "organisation": "Google",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "Senior Developer",
-    "organization": "InnoSoft Innovations",
-    "startDate": "2018-03-15",
-    "endDate": "2020-04-30",
-    "experiences": [
-      "Worked on google Maps,Worked on Windows 11,Worked on company library , Helped create UI components"
-    ],
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "Junior Developer",
-    "organization": "CodeCrafters Inc.",
-    "startDate": "2016-09-10",
-    "endDate": "2018-02-28",
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on google Maps,Worked on Windows 11,Worked on company library , Helped create UI components"
+      "Worked on component library",
+      "Helped create UI components"
     ],
     "imageSrc": "history/netflix.png"
   }
